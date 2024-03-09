@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074865362029",
+    "project_id": "smarthospital-99e50",
+    "storage_bucket": "smarthospital-99e50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074865362029:android:07696f495101e55405db64",
+        "android_client_info": {
+          "package_name": "com.klinixkare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqIWAtVbM5NzUL9JcoLP7noXaAk-9cHD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
